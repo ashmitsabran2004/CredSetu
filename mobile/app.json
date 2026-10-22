@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "MiniLedger",
+    "slug": "miniledger",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "backgroundColor": "#f4f6f8" },
+    "ios": { "supportsTablet": true },
+    "android": { "package": "com.example.miniledger" }
+  }
+}
